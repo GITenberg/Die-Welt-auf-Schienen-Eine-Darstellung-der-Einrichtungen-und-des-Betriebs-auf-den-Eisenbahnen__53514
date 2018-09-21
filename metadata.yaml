@@ -1,0 +1,27 @@
+_repo: Die-Welt-auf-Schienen-Eine-Darstellung-der-Einrichtungen-und-des-Betriebs-auf-den-Eisenbahnen__53514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fürst, Artur
+    alias: Furst, Artur
+    birthdate: 1880
+    deathdate: 1926
+    gutenberg_agent_id: '44447'
+    url: http://www.gutenberg.org/2009/agents/44447
+description: ''
+gutenberg_issued: '2016-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53514'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- History'
+- !lcc 'TF'
+- !lcsh 'Railroads -- Germany'
+- GITenberg
+title: "Die Welt auf Schienen\r\nEine Darstellung der Einrichtungen und des Betriebs\
+  \ auf den Eisenbahnen des Fernverkehrs, Nebst einer Geschichte der Eisenbahn"
+url: http://www.gutenberg.org/ebooks/53514
